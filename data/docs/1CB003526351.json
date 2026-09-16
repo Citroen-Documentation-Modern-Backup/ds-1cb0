@@ -1,0 +1,104 @@
+{
+ "ref": "1CB003526351",
+ "refDisplay": "1CB0 0 352 6351",
+ "title": "GLACE DE RETROVISEUR EXTERIEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0331"
+  }
+ ]
+}

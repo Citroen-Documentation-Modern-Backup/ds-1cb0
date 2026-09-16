@@ -1,0 +1,28 @@
+{
+ "ref": "010007008001A",
+ "refDisplay": "0100 07 008001A",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0146"
+  }
+ ]
+}

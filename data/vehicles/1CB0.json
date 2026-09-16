@@ -1,0 +1,123 @@
+{
+ "ldp": "1CB0",
+ "label": "C1",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA3",
+     "lib": "BERLINE 3PTES"
+    },
+    {
+     "val": "B0DA5",
+     "lib": "BERLINE 5PTES"
+    },
+    {
+     "val": "B0DAE",
+     "lib": "BERLINE ENTREPRISE 3PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FRA",
+     "lib": "1.0 i 68 EURO 4"
+    },
+    {
+     "val": "B0FRB",
+     "lib": "1.0 i 68 EURO 5"
+    },
+    {
+     "val": "B0FPB",
+     "lib": "1.4 HDi 54"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA3&B0F=B0FRA",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FRA"
+   },
+   "label": "BERLINE 3PTES · 1.0 i 68 EURO 4"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FRB",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FRB"
+   },
+   "label": "BERLINE 3PTES · 1.0 i 68 EURO 5"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FPB",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FPB"
+   },
+   "label": "BERLINE 3PTES · 1.4 HDi 54"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FRA",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FRA"
+   },
+   "label": "BERLINE 5PTES · 1.0 i 68 EURO 4"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FRB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FRB"
+   },
+   "label": "BERLINE 5PTES · 1.0 i 68 EURO 5"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FPB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FPB"
+   },
+   "label": "BERLINE 5PTES · 1.4 HDi 54"
+  },
+  {
+   "key": "B0D=B0DAE&B0F=B0FRA",
+   "selections": {
+    "B0D": "B0DAE",
+    "B0F": "B0FRA"
+   },
+   "label": "BERLINE ENTREPRISE 3PTES · 1.0 i 68 EURO 4"
+  },
+  {
+   "key": "B0D=B0DAE&B0F=B0FRB",
+   "selections": {
+    "B0D": "B0DAE",
+    "B0F": "B0FRB"
+   },
+   "label": "BERLINE ENTREPRISE 3PTES · 1.0 i 68 EURO 5"
+  },
+  {
+   "key": "B0D=B0DAE&B0F=B0FPB",
+   "selections": {
+    "B0D": "B0DAE",
+    "B0F": "B0FPB"
+   },
+   "label": "BERLINE ENTREPRISE 3PTES · 1.4 HDi 54"
+  }
+ ]
+}

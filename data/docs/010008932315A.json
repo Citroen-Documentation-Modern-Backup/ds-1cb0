@@ -1,0 +1,58 @@
+{
+ "ref": "010008932315A",
+ "refDisplay": "0100 08 932315A",
+ "title": "MATELASSURE ASSISE AR - COIFFE",
+ "nature": "",
+ "applicability": "R SPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0231"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "ref": "1CB004218907",
+ "refDisplay": "1CB0 0 421 8907",
+ "title": "SIEGES AV 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0877"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0218"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0877"
+  }
+ ]
+}

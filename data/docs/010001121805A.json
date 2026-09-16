@@ -1,0 +1,28 @@
+{
+ "ref": "010001121805A",
+ "refDisplay": "0100 01 121805A",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0005"
+  }
+ ]
+}

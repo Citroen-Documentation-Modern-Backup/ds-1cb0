@@ -1,0 +1,58 @@
+{
+ "ref": "010001335603A",
+ "refDisplay": "0100 01 335603A",
+ "title": "COMMANDE VITESSES",
+ "nature": "",
+ "applicability": "BVM TYPE C553",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRB",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRB",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRB",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0018"
+  }
+ ]
+}

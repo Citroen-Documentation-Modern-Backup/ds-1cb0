@@ -1,0 +1,28 @@
+{
+ "ref": "010001334220A",
+ "refDisplay": "0100 01 334220A",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "BVM C550",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0017"
+  }
+ ]
+}

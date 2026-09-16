@@ -1,0 +1,28 @@
+{
+ "ref": "010002141920A",
+ "refDisplay": "0100 02 141920A",
+ "title": "PEDALE ACCELERATEUR",
+ "nature": "",
+ "applicability": "BVM C550 ET CONDUITE A GAUCHE JUSQU’A OPR 11164",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0010"
+  }
+ ]
+}

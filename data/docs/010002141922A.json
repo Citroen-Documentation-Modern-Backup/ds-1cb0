@@ -1,0 +1,28 @@
+{
+ "ref": "010002141922A",
+ "refDisplay": "0100 02 141922A",
+ "title": "PEDALE ACCELERATEUR",
+ "nature": "",
+ "applicability": "BVM C550 ET AVEC SYSTEME ESP ET CONDUITE A GAUCHE DEPUIS OPR 11165",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FRA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FRA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FRA",
+   "fctId": "FCT0010"
+  }
+ ]
+}

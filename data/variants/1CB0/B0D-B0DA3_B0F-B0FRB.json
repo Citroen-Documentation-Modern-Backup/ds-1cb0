@@ -1,0 +1,7459 @@
+{
+ "ldp": "1CB0",
+ "variant": {
+  "key": "B0D=B0DA3&B0F=B0FRB",
+  "selections": {
+   "B0D": "B0DA3",
+   "B0F": "B0FRB"
+  },
+  "label": "BERLINE 3PTES · 1.0 i 68 EURO 5"
+ },
+ "domains": [
+  {
+   "id": "FCT0001",
+   "label": "Mécanique",
+   "image": "",
+   "level": 1,
+   "order": 4,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0512",
+     "label": "Moteur",
+     "image": "Fct20091028113400134.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0049",
+       "label": "Groupe moteur",
+       "image": "Fct20100503165049615.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0004",
+       "label": "Bloc moteur",
+       "image": "Fct20091028155419386.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0005",
+       "label": "Vilebrequin",
+       "image": "Fct20091028112003836.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0006",
+       "label": "Culasse",
+       "image": "Fct20091028155432171.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0007",
+       "label": "Distribution",
+       "image": "Fct20091028112027824.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0008",
+       "label": "Lubrification",
+       "image": "Fct20091028112048497.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0009",
+       "label": "Refroidissement",
+       "image": "Fct20091028112106563.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0010",
+       "label": "Alimentation",
+       "image": "Fct20091210110912149.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0011",
+       "label": "Échappement",
+       "image": "Fct20091028112125630.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0012",
+       "label": "Antipollution",
+       "image": "Fct20091210110942269.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0013",
+       "label": "Allumage",
+       "image": "Fct20091028112144063.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0014",
+       "label": "Suralimentation",
+       "image": "Fct20091028112202922.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0015",
+     "label": "Ensemble boîte de vitesses",
+     "image": "Fct20091028112220614.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0016",
+       "label": "Embrayage",
+       "image": "Fct20091028112239854.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0017",
+       "label": "Boîte de vitesses",
+       "image": "Fct20091028112303709.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0018",
+       "label": "Commande de vitesses",
+       "image": "Fct20091028112322653.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0019",
+     "label": "Transmission",
+     "image": "Fct20091028112339899.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0020",
+       "label": "Boîte transfert",
+       "image": "Fct20091028112355637.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0021",
+       "label": "Pont arrière",
+       "image": "Fct20091028112410428.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0022",
+       "label": "Transmissions",
+       "image": "Fct20091028112433455.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0023",
+       "label": "Roues",
+       "image": "Fct20091028112449090.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0024",
+       "label": "Pneumatiques",
+       "image": "Fct20091028112504687.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0025",
+     "label": "Ensemble suspension",
+     "image": "Fct20091028112522183.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0337",
+       "label": "Suspension",
+       "image": "Fct20091210122038993.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0026",
+       "label": "Essieu avant",
+       "image": "Fct20091028112537202.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0027",
+       "label": "Ressorts avant",
+       "image": "Fct20091028112550600.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0028",
+       "label": "Amortisseurs avant",
+       "image": "Fct20091028112605303.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0029",
+       "label": "Barre antidévers avant",
+       "image": "Fct20091028112615696.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0030",
+       "label": "Essieu arrière",
+       "image": "Fct20091028112629003.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0031",
+       "label": "Ressorts arrière",
+       "image": "Fct20091028112655856.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0032",
+       "label": "Amortisseurs arrière",
+       "image": "Fct20091028112709616.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0033",
+     "label": "Direction",
+     "image": "Fct20091028112722068.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0034",
+       "label": "Volant et commandes sous volant",
+       "image": "Fct20091028112734261.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0035",
+       "label": "Colonne de direction",
+       "image": "Fct20091028112748762.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0036",
+       "label": "Antivol",
+       "image": "Fct20091028112801620.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0037",
+       "label": "Crémaillère",
+       "image": "Fct20091028112828895.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0339",
+       "label": "Direction assistée",
+       "image": "Fct20091029160043835.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0039",
+     "label": "Freinage",
+     "image": "Fct20091028112851594.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0040",
+       "label": "Freins avant",
+       "image": "Fct20091028155449136.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0041",
+       "label": "Freins arrière",
+       "image": "Fct20091028155503143.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0042",
+       "label": "Canalisations",
+       "image": "Fct20091028155517268.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0043",
+       "label": "Compensateur",
+       "image": "Fct20091028155527798.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0044",
+       "label": "Assistance de freinage",
+       "image": "Fct20091210111006949.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0045",
+       "label": "Maître-cylindre",
+       "image": "Fct20091028155538270.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0046",
+       "label": "Frein de stationnement",
+       "image": "Fct20091028155548262.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0047",
+       "label": "Pédalier",
+       "image": "Fct20091028155601048.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0340",
+       "label": "ABS/ASR/ESP",
+       "image": "Fct20091210111238606.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0100",
+   "label": "Carrosserie",
+   "image": "",
+   "level": 1,
+   "order": 5,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0101",
+     "label": "Partie avant",
+     "image": "Fct20091028112932572.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0102",
+       "label": "Pare-chocs avant",
+       "image": "Fct20091028155651155.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0103",
+       "label": "Façade",
+       "image": "Fct20091103083956613.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0104",
+       "label": "Aile avant",
+       "image": "Fct20091028155704849.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0105",
+       "label": "Capot",
+       "image": "Fct20091028155721620.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0106",
+       "label": "Pare-brise",
+       "image": "Fct20091028155737327.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0107",
+       "label": "Traverse",
+       "image": "Fct20091028155749576.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0108",
+       "label": "Calandre",
+       "image": "Fct20091118153301451.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0109",
+       "label": "Berceau",
+       "image": "Fct20091028155806159.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0110",
+       "label": "Brancard",
+       "image": "Fct20091028155817168.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0111",
+       "label": "Plancher avant",
+       "image": "Fct20091103084013679.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0112",
+       "label": "Protection sous caisse",
+       "image": "Fct20091118153314971.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0113",
+       "label": "Insonorisant",
+       "image": "Fct20091118153328543.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0114",
+     "label": "Partie arrière",
+     "image": "Fct20091028113000771.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0115",
+       "label": "Pare-chocs arrière",
+       "image": "Fct20091103084031586.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0116",
+       "label": "Plancher arrière",
+       "image": "Fct20091103084043551.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0148",
+       "label": "Cloison de cabine / séparation arrière",
+       "image": "Fct20091103084247867.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0117",
+       "label": "Volet / porte",
+       "image": "Fct20091103084104656.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0118",
+       "label": "Aile arrière",
+       "image": "Fct20091028155933175.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0119",
+       "label": "Lunette",
+       "image": "Fct20091103084140707.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0120",
+       "label": "Soubassement",
+       "image": "Fct20091210111032045.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0121",
+       "label": "Custode",
+       "image": "Fct20091103084153258.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0122",
+       "label": "Garniture",
+       "image": "Fct20091210111101884.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0123",
+       "label": "Serrure",
+       "image": "Fct20091118153346106.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0124",
+       "label": "Monogramme",
+       "image": "Fct20091118153403703.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0151",
+       "label": "Attelage de remorque et faisceaux",
+       "image": "Fct20120808145856642.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0125",
+     "label": "Partie latérale",
+     "image": "Fct20091028113018246.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0126",
+       "label": "Pied avant",
+       "image": "Fct20091028155953382.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0127",
+       "label": "Bas de caisse",
+       "image": "Fct20091103084206912.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0128",
+       "label": "Pied central",
+       "image": "Fct20091103084230796.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0129",
+       "label": "Panneau de coté",
+       "image": "Fct20091028160011462.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0130",
+       "label": "Vitre latérale fixe",
+       "image": "Fct20091118153417259.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0131",
+     "label": "Portes avant et garnissage",
+     "image": "Fct20091028160038774.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0132",
+       "label": "Portes avant",
+       "image": "Fct20091028160050238.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0133",
+       "label": "Vitres de porte avant",
+       "image": "Fct20091028160116498.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0134",
+       "label": "Commande de porte avant",
+       "image": "Fct20091028160126215.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0135",
+       "label": "Garnissage de porte avant",
+       "image": "Fct20091028160140466.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0136",
+       "label": "Rétroviseurs",
+       "image": "Fct20091028160151630.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0137",
+     "label": "Portes arrière et garnissage",
+     "image": "Fct20091028160204409.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0138",
+       "label": "Portes arrière",
+       "image": "Fct20091028160221299.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0139",
+       "label": "Vitres de porte arrière",
+       "image": "Fct20091028160233845.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0140",
+       "label": "Commande de porte arrière",
+       "image": "Fct20091028160304358.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0141",
+       "label": "Garnissage de porte arrière",
+       "image": "Fct20091028160315449.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0142",
+     "label": "Ensemble pavillon et garnissage",
+     "image": "Fct20091028113108857.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0143",
+       "label": "Pavillon",
+       "image": "Fct20091029154656674.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0144",
+       "label": "Arc de pavillon",
+       "image": "Fct20091029154725013.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0235",
+       "label": "Garnitures de pavillon",
+       "image": "Fct20091029160117471.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0149",
+       "label": "Toit ouvrant/capote",
+       "image": "Fct20100125133305182.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0145",
+     "label": "Caisse",
+     "image": "Fct20091028113124454.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0146",
+       "label": "Caisse nue",
+       "image": "Fct20091028160327341.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0147",
+       "label": "Obturateurs de caisse",
+       "image": "Fct20091028160337999.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0150",
+       "label": "Plateau-cabine",
+       "image": "Fct20100922141421873.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0200",
+   "label": "Équipements",
+   "image": "",
+   "level": 1,
+   "order": 6,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0201",
+     "label": "Éclairage - signalisation",
+     "image": "Fct20100223121748499.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0202",
+       "label": "Éclairage intérieur",
+       "image": "Fct20091118153451850.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0203",
+       "label": "Éclairage extérieur",
+       "image": "Fct20091118153512268.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0314",
+       "label": "Signalisation",
+       "image": "Fct20091118153549609.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0205",
+     "label": "Lavage et essuyage",
+     "image": "Fct20100223121841352.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0321",
+       "label": "Lavage",
+       "image": "Fct20091103084914839.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0322",
+       "label": "Essuyage",
+       "image": "Fct20091103084927215.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0211",
+     "label": "Ensemble planche de bord",
+     "image": "Fct20091028113147033.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0212",
+       "label": "Planche de bord",
+       "image": "Fct20091029154744775.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0213",
+       "label": "Combiné",
+       "image": "Fct20091028113206072.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0214",
+       "label": "Vide-poches",
+       "image": "Fct20091028113218124.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0215",
+       "label": "Aérateurs",
+       "image": "Fct20091028113230235.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0216",
+       "label": "Façade de la planche de bord",
+       "image": "Fct20091029154804166.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0217",
+     "label": "Ensemble siège avant",
+     "image": "Fct20091029154829215.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0218",
+       "label": "Sièges avant",
+       "image": "Fct20091029154840941.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0219",
+       "label": "Armature siège avant",
+       "image": "Fct20091029154902397.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0220",
+       "label": "Coiffe de siège avant",
+       "image": "Fct20091029154920081.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0221",
+       "label": "Accoudoir avant",
+       "image": "Fct20091029154942940.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0237",
+       "label": "Ceintures de sécurité avant",
+       "image": "Fct20100407121553446.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0222",
+     "label": "Ensemble siège intermédiaire",
+     "image": "Fct20091028113252624.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0223",
+       "label": "Sièges intermédiaires",
+       "image": "Fct20091029155158604.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0224",
+       "label": "Armature siège intermédiaire",
+       "image": "Fct20091029155214003.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0225",
+       "label": "Coiffe de siège intermédiaire",
+       "image": "Fct20091029155227169.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0226",
+       "label": "Accoudoir central",
+       "image": "Fct20091029155242207.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0238",
+       "label": "Ceintures de sécurité intermédiaire",
+       "image": "Fct20100407121830853.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0227",
+     "label": "Sièges arrière/banquette",
+     "image": "Fct20091029155304051.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0228",
+       "label": "Sièges arrière",
+       "image": "Fct20091029155339556.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0229",
+       "label": "Banquette",
+       "image": "Fct20091029155358027.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0230",
+       "label": "Armature siège arrière",
+       "image": "Fct20091029155425855.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0231",
+       "label": "Coiffe de siège arrière",
+       "image": "Fct20091029155446348.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0232",
+       "label": "Accoudoir arrière",
+       "image": "Fct20091029155512730.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0239",
+       "label": "Ceintures de sécurité arrière",
+       "image": "Fct20100407121943761.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0240",
+       "label": "Tablette arrière",
+       "image": "Fct20110221152437766.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0233",
+     "label": "Habillage",
+     "image": "Fct20091029155532041.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0234",
+       "label": "Garnissage intérieur",
+       "image": "Fct20091029155549875.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0235",
+       "label": "Garnitures de pavillon",
+       "image": "Fct20091029160117471.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0236",
+       "label": "Protections latérales",
+       "image": "Fct20091210120343072.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0240",
+       "label": "Tablette arrière",
+       "image": "Fct20110221152437766.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0300",
+   "label": "Organes électriques",
+   "image": "",
+   "level": 1,
+   "order": 7,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0700",
+     "label": "Généralités",
+     "image": "Fct20100114093159000.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0701",
+       "label": "Affectation des fusibles",
+       "image": "Fct20091118153716853.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0703",
+       "label": "Prises / bornes / connecteurs",
+       "image": "Fct20091210111434392.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0704",
+       "label": "Épissures",
+       "image": "Fct20091210111447074.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0705",
+       "label": "Interconnexions",
+       "image": "Fct20091210111500141.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0706",
+       "label": "Implantations",
+       "image": "Fct20091210111512920.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0942",
+       "label": "Boîtiers / platines / coffrets",
+       "image": "Fct20091210111540611.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0946",
+       "label": "Divers",
+       "image": "Fct20091210111553621.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0301",
+     "label": "Électricité moteur",
+     "image": "Fct20091029155622994.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0302",
+       "label": "Démarrage",
+       "image": "Fct20091103084443272.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0303",
+       "label": "Génération de courant",
+       "image": "Fct20091103084518473.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0304",
+       "label": "Préchauffage",
+       "image": "Fct20091103084549043.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0305",
+       "label": "Batterie",
+       "image": "Fct20091103084601438.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0766",
+       "label": "Batterie de traction",
+       "image": "Fct20100915125530075.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0306",
+     "label": "Faisceaux électriques",
+     "image": "Fct20091103084623468.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0307",
+       "label": "Connectique",
+       "image": "Fct20091103084641645.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0308",
+       "label": "Faisceaux avant",
+       "image": "Fct20091103084654588.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0309",
+       "label": "Faisceaux centraux",
+       "image": "Fct20091103084707532.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0310",
+       "label": "Faisceaux arrière",
+       "image": "Fct20091103084729708.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0767",
+       "label": "Cable haute tension / 12V",
+       "image": "Fct20100915125846562.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0201",
+     "label": "Éclairage - signalisation",
+     "image": "Fct20100223121748499.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0202",
+       "label": "Éclairage intérieur",
+       "image": "Fct20091118153451850.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0203",
+       "label": "Éclairage extérieur",
+       "image": "Fct20091118153512268.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0314",
+       "label": "Signalisation",
+       "image": "Fct20091118153549609.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0516",
+     "label": "Informations conducteur",
+     "image": "Fct20100223121814681.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0213",
+       "label": "Combiné",
+       "image": "Fct20091028113206072.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0954",
+       "label": "Messages, sons et témoins groupe motopropulseur",
+       "image": "Fct20091210111607296.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0955",
+       "label": "Messages, sons et témoins éclairage - signalisation",
+       "image": "Fct20091210111626325.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0503",
+       "label": "Messages, sons et témoins informations conducteur",
+       "image": "Fct20091210111416316.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0956",
+       "label": "Messages, sons et témoins lavage et essuyage",
+       "image": "Fct20091210111635995.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0957",
+       "label": "Messages, sons et témoins protections et ouvrants",
+       "image": "Fct20091210111646567.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0958",
+       "label": "Messages, sons et témoins poste de conduite",
+       "image": "Fct20091210111659284.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0959",
+       "label": "Messages, sons et témoins aide à la conduite",
+       "image": "Fct20091210111711676.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0960",
+       "label": "Messages, sons et témoins confort et vie à bord",
+       "image": "Fct20091210111723041.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0961",
+       "label": "Messages, sons et témoins accessoires",
+       "image": "Fct20091210111732545.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0319",
+       "label": "Systèmes d&#8217;affichage",
+       "image": "Fct20091118153606741.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0205",
+     "label": "Lavage et essuyage",
+     "image": "Fct20100223121841352.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0321",
+       "label": "Lavage",
+       "image": "Fct20091103084914839.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0322",
+       "label": "Essuyage",
+       "image": "Fct20091103084927215.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0323",
+     "label": "Protections et ouvrants",
+     "image": "Fct20100223121913861.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0324",
+       "label": "Antidémarrage",
+       "image": "Fct20091210111157013.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0311",
+       "label": "Alarme",
+       "image": "Fct20091118153536428.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0325",
+       "label": "Verrouillage / déverrouillage",
+       "image": "Fct20091103084948003.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0857",
+       "label": "Porte latérale coulissante",
+       "image": "Fct20091029160150580.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0329",
+       "label": "Lève-vitres",
+       "image": "Fct20091029155933226.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0858",
+       "label": "Coffre motorisé",
+       "image": "Fct20091210122117274.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0952",
+       "label": "Ceintures de sécurité",
+       "image": "Fct20091029160225887.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0953",
+       "label": "Coussins gonflables",
+       "image": "Fct20091029160253837.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0327",
+       "label": "Choc piéton",
+       "image": "Fct20091210111216076.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0328",
+       "label": "Toit / rideau",
+       "image": "Fct20091103085002569.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0330",
+     "label": "Poste de conduite",
+     "image": "Fct20100223121947693.jpg",
+     "level": 2,
+     "order": 8,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0331",
+       "label": "Rétroviseurs",
+       "image": "Fct20091103085015553.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0035",
+       "label": "Colonne de direction",
+       "image": "Fct20091028112748762.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0333",
+       "label": "Sièges",
+       "image": "Fct20091029155956579.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0877",
+       "label": "Mémorisation poste de conduite",
+       "image": "Fct20091210122132905.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0334",
+     "label": "Aide à la conduite",
+     "image": "Fct20100223122014782.jpg",
+     "level": 2,
+     "order": 9,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0951",
+       "label": "Aide au stationnement",
+       "image": "Fct20091210122155659.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0336",
+       "label": "Alerte de franchissement involontaire de ligne",
+       "image": "Fct20091103085051787.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0337",
+       "label": "Suspension",
+       "image": "Fct20091210122038993.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0338",
+       "label": "Détection de sous-gonflage",
+       "image": "Fct20091029160015745.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0339",
+       "label": "Direction assistée",
+       "image": "Fct20091029160043835.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0340",
+       "label": "ABS/ASR/ESP",
+       "image": "Fct20091210111238606.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0351",
+       "label": "Frein de stationnement",
+       "image": "Fct20091103085208425.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0341",
+       "label": "Surveillance angle mort",
+       "image": "Fct20091210122052815.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0343",
+       "label": "Déflecteur mobile de coffre",
+       "image": "Fct20091103085116754.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0344",
+       "label": "Régulation / limitation de vitesse",
+       "image": "Fct20091118153645376.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0044",
+       "label": "Assistance de freinage",
+       "image": "Fct20091210111006949.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0345",
+       "label": "Respect distance de sécurité",
+       "image": "Fct20091103085139809.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0346",
+     "label": "Confort et vie à bord",
+     "image": "Fct20100223122034087.jpg",
+     "level": 2,
+     "order": 10,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0347",
+       "label": "Chauffage / réfrigération",
+       "image": "Fct20091210111258014.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0348",
+       "label": "Chauffage additionnel",
+       "image": "Fct20091210111309685.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0349",
+       "label": "Équipements chauffants",
+       "image": "Fct20091210111324615.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0350",
+       "label": "Autoradio / navigation / télématique / téléphonie / multimédia",
+       "image": "Fct20091103085152831.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0703",
+       "label": "Prises / bornes / connecteurs",
+       "image": "Fct20091210111434392.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "leaves": {
+  "FCT0049": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010001002005A",
+      "010001348005A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "B1BBG4P0",
+      "B1BBG6P0",
+      "B1JB014GP0",
+      "B1BB01A9P0",
+      "B1BB01ABP0",
+      "B1BB01AAP0",
+      "E5AB0118P0",
+      "B1BB017TP0",
+      "B1BG013RP0",
+      "B1BG7BP0",
+      "B1BG014BP0",
+      "B1BJ0108P0",
+      "B1BP0107P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB0050720",
+      "1CB0050728",
+      "1CB0050710",
+      "1CB0050717",
+      "1CB0032015",
+      "1CB0030102",
+      "1CB0031805",
+      "1CB0030101",
+      "1CB0050769"
+     ]
+    }
+   ]
+  },
+  "FCT0004": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010001114005A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B1HG01VSP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB007015D"
+     ]
+    }
+   ]
+  },
+  "FCT0005": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010001121805A",
+      "010001121005A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "B1BB015MP0",
+      "B1BB014RP0",
+      "B1BB015DP0",
+      "B1BG014GP0",
+      "B1BG014MP0",
+      "B1HG01VUP0",
+      "B1BG0182P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB0080123",
+      "1CB0080124",
+      "1CB0080131",
+      "1CB0080166",
+      "1CB0090129",
+      "1CB0080120",
+      "1CB0080130"
+     ]
+    }
+   ]
+  },
+  "FCT0006": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010001112005A",
+      "010001124305A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "B1BB014SP0",
+      "B1BB014NP0",
+      "B1DG6KP0",
+      "B1BS010AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB00110230",
+      "1CB00110205",
+      "1CB00110202",
+      "1CB00110235",
+      "1CB00120201",
+      "1CB00110208",
+      "1CB00120254"
+     ]
+    }
+   ]
+  },
+  "FCT0007": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010001123005A",
+      "010001114305A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "B1BB015AP0",
+      "B1HG01VUP0",
+      "B1EG3QP0",
+      "B1DG6FP0",
+      "B1BG0182P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CB00150164",
+      "1CB00150168",
+      "1CB00140162",
+      "1CB0015011A",
+      "1CB00140174",
+      "1CB0015018L",
+      "1CB00150179",
+      "1CB0015016E",
+      "1CB0015018M",
+      "1CB00150135",
+      "1CB00150180"
+     ]
+    }
+   ]
+  },
+  "FCT0008": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010001223005A",
+      "010001222005A",
+      "010001223043A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "B1FB11P0",
+      "E4AB0MP0",
+      "B1BB017TP0",
+      "B1FD2DP0",
+      "B1FG013PP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB00180108",
+      "1CB00180149",
+      "1CB00180144",
+      "1CB00170146",
+      "1CB00180140",
+      "1CB00180148"
+     ]
+    }
+   ]
+  },
+  "FCT0009": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "010006236005A",
+      "010001241020A",
+      "010001241015A",
+      "010001241025A",
+      "010001231005A",
+      "010006235520A",
+      "010006235515A",
+      "010006235525A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "B1BB017TP0",
+      "B1GG01B1P0",
+      "B1GG01B0P0",
+      "B1GG1AP0",
+      "B1GG01AZP0",
+      "B1GI2UP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "1CB00590529",
+      "1CB00190501",
+      "1CB00360543",
+      "1CB00363901",
+      "1CB00200528",
+      "1CB0036054A",
+      "1CB00200530",
+      "1CB00210505",
+      "1CB00590545",
+      "1CB00360593",
+      "1CB00360534",
+      "1CB00590547",
+      "1CB00220509",
+      "1CB00220508",
+      "1CB00220563",
+      "1CB00220516"
+     ]
+    }
+   ]
+  },
+  "FCT0010": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "010002144110A",
+      "010002144115A",
+      "010002144120A",
+      "010006173010A",
+      "010002140003A",
+      "010002170012A",
+      "010002170015A",
+      "010002170010A",
+      "010002140055A",
+      "010002141935C",
+      "010002141930C",
+      "010002141927C",
+      "010002141922D",
+      "010002141925D",
+      "010002141920E",
+      "010006175001A",
+      "010007850001A",
+      "010006175101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "B1HB0170P0",
+      "B1HG01VSP0",
+      "B1HG01VTP0",
+      "B1HG01VUP0",
+      "B1HGEAP0",
+      "B1HG01VVP0",
+      "B1HG01VWP0",
+      "B1HGEBP0",
+      "B1HGE4P0",
+      "B1GG01AZP0",
+      "B1HI0JP0",
+      "B1BK0113P0",
+      "B1BK0111P0",
+      "B1BK0114P0",
+      "B1BK0112P0",
+      "D6AM010RP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 26,
+     "truncated": false,
+     "refs": [
+      "1CB00351624",
+      "1CB00351712",
+      "1CB00351713",
+      "1CB00316699",
+      "1CB00261637",
+      "1CB00301590",
+      "1CB00414220",
+      "1CB00271612",
+      "1CB00271201",
+      "1CB00271640",
+      "1CB00270695",
+      "1CB00270642",
+      "1CB00316698",
+      "1CB00261431",
+      "1CB0027016G",
+      "1CB00251403",
+      "1CB00251401",
+      "1CB00401653",
+      "1CB00291570",
+      "1CB00319097",
+      "1CB00414215",
+      "1CB00291670",
+      "1CB00351617",
+      "1CB00291501",
+      "1CB00271251",
+      "1CB00316626"
+     ]
+    }
+   ]
+  },
+  "FCT0011": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010006183005A",
+      "010006184805A",
+      "010006182305A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "B1JB2UP0",
+      "B1JG1HP0",
+      "B1JG016ZP0",
+      "B1KM0107P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB00490450",
+      "1CB00500426",
+      "1CB00490463",
+      "1CB00500446",
+      "1CB00500452",
+      "1CB00490434"
+     ]
+    }
+   ]
+  },
+  "FCT0012": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010006175605A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "B1KG015UP0",
+      "B1JG016YP0",
+      "B1KT0101P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB00730354",
+      "1CB0053032A",
+      "1CB0054031A",
+      "1CB0054031C"
+     ]
+    }
+   ]
+  },
+  "FCT0013": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010002212005A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B1IG010TP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB00460653",
+      "1CB00460620",
+      "1CB00460625"
+     ]
+    }
+   ]
+  },
+  "FCT0014": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB00581457"
+     ]
+    }
+   ]
+  },
+  "FCT0016": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010001312012A",
+      "010001312005A",
+      "010004314216A",
+      "010004314202A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "B2BB0XP0",
+      "B2BB0WP0",
+      "B2BE0AP0",
+      "B2BG15P0",
+      "B2BG14P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CB00640803",
+      "1CB00644216",
+      "1CB0070080A",
+      "1CB00620804",
+      "1CB00620801",
+      "1CB00640801",
+      "1CB00620816",
+      "1CB00620805",
+      "1CB00644213",
+      "1CB00644217"
+     ]
+    }
+   ]
+  },
+  "FCT0017": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "010001335670A",
+      "010001312501A",
+      "010001330005A",
+      "010001330010A",
+      "010001330015A",
+      "010001333340A",
+      "010001331001A",
+      "010001331010A",
+      "010001331005A",
+      "010001343015A",
+      "010001343005A",
+      "010001331065A",
+      "010001331055A",
+      "010001335101A",
+      "010001335110A",
+      "010001335105A",
+      "010001334215A",
+      "010001334205A",
+      "010001334415A",
+      "010001334405A",
+      "010001330501A",
+      "010001330510A",
+      "010001330505A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 27,
+     "truncated": false,
+     "refs": [
+      "B2CB5YP0",
+      "B2CB5SP0",
+      "B2CB63P0",
+      "B2CB5WP0",
+      "B2CB5VP0",
+      "B2CB6DP0",
+      "B2CB64P0",
+      "B2CB61P0",
+      "B2CB5UP0",
+      "B2CB0134P0",
+      "B2CB62P0",
+      "B2CB60P0",
+      "B2CB5XP0",
+      "B2CB5RP0",
+      "B2CG017GP0",
+      "B2CG9DP0",
+      "B2CG97P0",
+      "B2CG9CP0",
+      "B1BG7BP0",
+      "B2CG017HP0",
+      "B2CI1QK1",
+      "B2CI1DP0",
+      "B2CJ010AP0",
+      "B2CK0102P0",
+      "B2CK0CP0",
+      "B2CS010KP0",
+      "B2CT0101P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB001701804",
+      "1CB001751802",
+      "1CB00670960",
+      "1CB00671801",
+      "1CB006131803",
+      "1CB001751810",
+      "1CB001751809",
+      "1CB00690944",
+      "1CB00670101"
+     ]
+    }
+   ]
+  },
+  "FCT0018": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010001335601A",
+      "010001335615A",
+      "010001335610A",
+      "010001335603A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B2CG98P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB00870956",
+      "1CB00864245",
+      "1CB006214245",
+      "1CB00864202",
+      "1CB00864201",
+      "1CB00864211"
+     ]
+    }
+   ]
+  },
+  "FCT0020": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": []
+  },
+  "FCT0021": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": []
+  },
+  "FCT0022": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010004371105A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "B2FB010UP0",
+      "B2FG0QP0",
+      "B2FH0109P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB001321028",
+      "1CB001321037",
+      "1CB001321029",
+      "1CB001321039",
+      "1CB001321001",
+      "1CB001321002",
+      "1CB001321004"
+     ]
+    }
+   ]
+  },
+  "FCT0023": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "010008622150A",
+      "010003416160A",
+      "010003416150A",
+      "010003416410A",
+      "010003416401A",
+      "010003416110A",
+      "010003416101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "B2GB0102P0",
+      "B2GB0108P0",
+      "B2FB010UP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CB001412251",
+      "1CB001412253",
+      "1CB001412254",
+      "1CB001412249",
+      "1CB001412206",
+      "1CB001412204",
+      "1CB001412252",
+      "1CB001412201"
+     ]
+    }
+   ]
+  },
+  "FCT0024": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB001472213",
+      "1CB001472216",
+      "1CB001472212"
+     ]
+    }
+   ]
+  },
+  "FCT0337": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "B3BB29P0",
+      "B3BB2AP0",
+      "B3BB011RP0",
+      "B3BB011SP0",
+      "B3BB2MP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB001512002",
+      "1CB001512001",
+      "1CB001512300"
+     ]
+    }
+   ]
+  },
+  "FCT0026": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003413101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "B3CB15P0",
+      "B3CB17P0",
+      "B3CG22P0",
+      "B3CG21P0",
+      "B3CJ0111P0",
+      "B3CT0101P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CB001912016",
+      "1CB001912017",
+      "1CB001912060",
+      "1CB001912061",
+      "1CB001912044",
+      "1CB001912045",
+      "1CB001912072",
+      "1CB001912073",
+      "1CB001912029",
+      "1CB001912027"
+     ]
+    }
+   ]
+  },
+  "FCT0027": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003434205A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3BG45P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB001522318",
+      "1CB001522320",
+      "1CB001522321"
+     ]
+    }
+   ]
+  },
+  "FCT0028": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003434005A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3BG46P0",
+      "B3BG45P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB001542315",
+      "1CB001542318",
+      "1CB001542316",
+      "1CB00154233A",
+      "1CB001542319"
+     ]
+    }
+   ]
+  },
+  "FCT0029": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003435201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3BG40P0",
+      "B3BG0107P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB001532326",
+      "1CB001532330",
+      "1CB001532331",
+      "1CB001532325"
+     ]
+    }
+   ]
+  },
+  "FCT0030": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003434401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "B3DB17P0",
+      "B3DB1AP0",
+      "B3DG2BP0",
+      "B3DG2CP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB001572135",
+      "1CB001572136",
+      "1CB001572145",
+      "1CB001572146"
+     ]
+    }
+   ]
+  },
+  "FCT0031": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003422105A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3DB1AP0",
+      "B3DG2DP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB001552388",
+      "1CB001552389",
+      "1CB001559450",
+      "1CB001552158",
+      "1CB001552104"
+     ]
+    }
+   ]
+  },
+  "FCT0032": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003434305A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3BG42P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB001562382",
+      "1CB001562383"
+     ]
+    }
+   ]
+  },
+  "FCT0034": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010005522101A",
+      "010003441002A",
+      "010003441001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "B3EG3JP0",
+      "B3EG016YP0",
+      "C5JG6JP0",
+      "B3EG3KP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB005355130",
+      "1CB005355101",
+      "1CB00221531A",
+      "1CB002214403",
+      "1CB002214353",
+      "1CB002214352",
+      "1CB002212480"
+     ]
+    }
+   ]
+  },
+  "FCT0035": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033",
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010003441110A",
+      "010003441101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3EG3GP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB002222488"
+     ]
+    }
+   ]
+  },
+  "FCT0036": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010003441501A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3EG3MP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB002232498",
+      "1CB002239097"
+     ]
+    }
+   ]
+  },
+  "FCT0037": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "010003442501A",
+      "010003442010A",
+      "010003442001A",
+      "010003442011A",
+      "010003442002A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3EF0FP0",
+      "B3EG3NP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB002242450",
+      "1CB002252405",
+      "1CB002252406",
+      "1CB002252417",
+      "1CB002252418",
+      "1CB002241272"
+     ]
+    }
+   ]
+  },
+  "FCT0339": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010003442010A",
+      "010003442001A",
+      "010003442011A",
+      "010003442002A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "B3EB17P0",
+      "B3EB16P0",
+      "B3EB011JP0",
+      "B3EF0FP0",
+      "B3EG3HP0",
+      "B3EG3LP0",
+      "B3ET0108P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB002242450",
+      "1CB002241272"
+     ]
+    }
+   ]
+  },
+  "FCT0040": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010004451210A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "B3FB15P0",
+      "B3FB14P0",
+      "B3FB011UP0",
+      "B3FB16P0",
+      "B3FD1JP0",
+      "B3FD45K1",
+      "B3FD011QP0",
+      "B3FG5MP0",
+      "B3FG5SP0",
+      "B3FG5RP0",
+      "B3FI0LP0",
+      "B3FJ0GP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CB002312568",
+      "1CB002312572",
+      "1CB002312573",
+      "1CB002312564",
+      "1CB002312565",
+      "1CB002302601",
+      "1CB002302501",
+      "1CB002302612",
+      "1CB002312523",
+      "1CB002312521",
+      "1CB002312607"
+     ]
+    }
+   ]
+  },
+  "FCT0041": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010004451510A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "B3FB15P0",
+      "B3FB14P0",
+      "B3FB011UP0",
+      "B3FB16P0",
+      "B3FD1EP0",
+      "B3FD45K1",
+      "B3FD011QP0",
+      "B3FG5NP0",
+      "B3FG7HK1",
+      "B3FI0LP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CB002332639",
+      "1CB002332640",
+      "1CB002332610",
+      "1CB002332611",
+      "1CB002302601",
+      "1CB002302501",
+      "1CB002332609",
+      "1CB002302612",
+      "1CB002332145",
+      "1CB002332146",
+      "1CB002332605"
+     ]
+    }
+   ]
+  },
+  "FCT0042": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "010004453075A",
+      "010004453065A",
+      "010004453060A",
+      "010004453055A",
+      "010004453050A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB002352541",
+      "1CB002352661",
+      "1CB002782661",
+      "1CB002352542",
+      "1CB002782542",
+      "1CB002352662",
+      "1CB002782662",
+      "1CB002352515",
+      "1CB002782515"
+     ]
+    }
+   ]
+  },
+  "FCT0043": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": []
+  },
+  "FCT0044": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010004456220A",
+      "010004456210A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3FD1FP0",
+      "B3FG5QP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB002372514",
+      "1CB002372515",
+      "1CB002372520"
+     ]
+    }
+   ]
+  },
+  "FCT0045": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010004453520A",
+      "010004453510A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3FG5PP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB002382502",
+      "1CB002382507",
+      "1CB002382506"
+     ]
+    }
+   ]
+  },
+  "FCT0046": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010004455510A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3FF0EP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB002392586",
+      "1CB002392587",
+      "1CB002392578",
+      "1CB002395146",
+      "1CB002392576"
+     ]
+    }
+   ]
+  },
+  "FCT0047": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "010004314105A",
+      "010004314101A",
+      "010004314115A",
+      "010004314110A",
+      "010004314106A",
+      "010004314102A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3FD1DP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB002404216",
+      "1CB002405127",
+      "1CB002404214",
+      "1CB002404217"
+     ]
+    }
+   ]
+  },
+  "FCT0340": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010004454120A",
+      "010004454110A",
+      "010004454150A",
+      "010004454190A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "B3FG5JP0",
+      "B3FG5LP0",
+      "B3FG5KP0",
+      "B3FG0103P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB002512509",
+      "1CB002522694",
+      "1CB002522594",
+      "1CB002522695",
+      "1CB002522595",
+      "1CB001465128",
+      "1CB002511252"
+     ]
+    }
+   ]
+  },
+  "FCT0102": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010006617501A",
+      "010006617505A",
+      "010006617510A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "C5JG01JRP0",
+      "C5JG0152P0",
+      "C5JG6LP0",
+      "C5JM0102P0",
+      "C5GM0105P0",
+      "C5JS0GP0",
+      "C5JS0112P0",
+      "C5JS013AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "1CB003036248",
+      "1CB003036059",
+      "1CB003035734",
+      "1CB003036201",
+      "1CB003036409",
+      "1CB003036111",
+      "1CB003036133",
+      "1CB003036112",
+      "1CB003036131",
+      "1CB003036215",
+      "1CB003036407",
+      "1CB003036057",
+      "1CB003035726"
+     ]
+    }
+   ]
+  },
+  "FCT0103": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007741001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4AH2BP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB003040599",
+      "1CB003047247",
+      "1CB003047242",
+      "1CB003047244",
+      "1CB00304702B"
+     ]
+    }
+   ]
+  },
+  "FCT0104": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007743501A",
+      "010007852005A",
+      "010007852001B"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "C4AG23P0",
+      "C5JG6UP0",
+      "C4AH2DP0",
+      "C4AH2CP0",
+      "C4GP0AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "1CB003056402",
+      "1CB003056030",
+      "1CB003056031",
+      "1CB003056050",
+      "1CB003057250",
+      "1CB003057275",
+      "1CB003056102",
+      "1CB003056104",
+      "1CB003056027",
+      "1CB003056038",
+      "1CB00305520D",
+      "1CB003296826",
+      "1CB003056409",
+      "1CB003057425",
+      "1CB003057426",
+      "1CB003056111",
+      "1CB003056133",
+      "1CB003056112",
+      "1CB003056131",
+      "1CB003056407"
+     ]
+    }
+   ]
+  },
+  "FCT0105": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007743301A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4AG1ZP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CB003066002",
+      "1CB003066006",
+      "1CB003066102",
+      "1CB003066104",
+      "1CB003066007",
+      "1CB003066021",
+      "1CB003066009",
+      "1CB003066008",
+      "1CB003066133",
+      "1CB003066131",
+      "1CB003066259",
+      "1CB003066099"
+     ]
+    }
+   ]
+  },
+  "FCT0106": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007741601A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CG1KP0",
+      "C4AG0143P0",
+      "C4AG22P0",
+      "C5CM0103P0",
+      "C5CM0106P0",
+      "C5CM03P0",
+      "C5CM01P0",
+      "C5CM02P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB003075902",
+      "1CB003076015",
+      "1CB003075901",
+      "1CB003077033",
+      "1CB003075900"
+     ]
+    }
+   ]
+  },
+  "FCT0107": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007742501A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003089039",
+      "1CB003089076"
+     ]
+    }
+   ]
+  },
+  "FCT0108": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4AG1ZP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB003096059",
+      "1CB003096208",
+      "1CB003096409"
+     ]
+    }
+   ]
+  },
+  "FCT0109": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007741501A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3CG20P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003132011",
+      "1CB003132015"
+     ]
+    }
+   ]
+  },
+  "FCT0110": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007741301A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C4AH2FP0",
+      "C4AH2EP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB003147250",
+      "1CB003147275",
+      "1CB003147247",
+      "1CB003147242",
+      "1CB003147244"
+     ]
+    }
+   ]
+  },
+  "FCT0111": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007743601A"
+     ]
+    }
+   ]
+  },
+  "FCT0112": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007743101A"
+     ]
+    }
+   ]
+  },
+  "FCT0113": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": []
+  },
+  "FCT0115": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010006617601A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5JG6MP0",
+      "C5JM0102P0",
+      "C5GM0105P0",
+      "C5JS0FP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB00321682D",
+      "1CB003216815",
+      "1CB003217089",
+      "1CB003215726"
+     ]
+    }
+   ]
+  },
+  "FCT0116": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010008622150A",
+      "010007746901A",
+      "010008622101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C4BH37P0",
+      "C4BH33P0",
+      "C4BH36P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB003228021",
+      "1CB003228201",
+      "1CB003228267",
+      "1CB003228246"
+     ]
+    }
+   ]
+  },
+  "FCT0148": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": []
+  },
+  "FCT0117": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007852005A",
+      "010007852001B",
+      "010007844901A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C4BG0ZP0",
+      "C5GG019VP0",
+      "C5CM0103P0",
+      "C5CM0106P0",
+      "C4GP0AP0",
+      "C4BS0QP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "1CB003275733",
+      "1CB003276881",
+      "1CB003366881",
+      "1CB003276882",
+      "1CB003276806",
+      "1CB003256803",
+      "1CB003196807",
+      "1CB003276807",
+      "1CB003276808",
+      "1CB003366808",
+      "1CB003196971",
+      "1CB003276890",
+      "1CB003366890",
+      "1CB003296826",
+      "1CB003276873",
+      "1CB003256802"
+     ]
+    }
+   ]
+  },
+  "FCT0118": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007844805A",
+      "010007852005A",
+      "010007852001B"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "C5JG6UP0",
+      "C5GG019VP0",
+      "C4CH57P0",
+      "C4BH35P0",
+      "C4GP0AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB003246628",
+      "1CB003246650",
+      "1CB003296826",
+      "1CB003248267"
+     ]
+    }
+   ]
+  },
+  "FCT0119": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB003286844"
+     ]
+    }
+   ]
+  },
+  "FCT0120": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008622101A"
+     ]
+    }
+   ]
+  },
+  "FCT0121": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007843501A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CG1LP0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB003305827"
+     ]
+    }
+   ]
+  },
+  "FCT0122": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008980201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5GG019VP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB003269152",
+      "1CB003269091",
+      "1CB003269191"
+     ]
+    }
+   ]
+  },
+  "FCT0123": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007844950A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB003375323",
+      "1CB003166921",
+      "1CB003166803",
+      "1CB003169097",
+      "1CB003166802"
+     ]
+    }
+   ]
+  },
+  "FCT0124": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010007852005A",
+      "010007852001B"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4GP0AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB003296826"
+     ]
+    }
+   ]
+  },
+  "FCT0151": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": []
+  },
+  "FCT0126": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007746405A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB003417425"
+     ]
+    }
+   ]
+  },
+  "FCT0127": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007743705A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4CH5AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB003425503",
+      "1CB003427466",
+      "1CB003427474"
+     ]
+    }
+   ]
+  },
+  "FCT0128": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": []
+  },
+  "FCT0129": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007746601A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB003446342",
+      "1CB003447425",
+      "1CB003447426",
+      "1CB003447617",
+      "1CB003447618"
+     ]
+    }
+   ]
+  },
+  "FCT0130": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CG1LP0",
+      "C5CM0106P0"
+     ]
+    }
+   ]
+  },
+  "FCT0132": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007852005A",
+      "010007852001B",
+      "010007841101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C4CH55P0",
+      "C4GP0AP0",
+      "C4CS0SP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 14,
+     "truncated": false,
+     "refs": [
+      "1CB003506402",
+      "1CB003506338",
+      "1CB003506388",
+      "1CB003506342",
+      "1CB003506455",
+      "1CB003296826",
+      "1CB003506409",
+      "1CB003506339",
+      "1CB003506407",
+      "1CB003506320",
+      "1CB003506336",
+      "1CB003506393",
+      "1CB003506303",
+      "1CB003506373"
+     ]
+    }
+   ]
+  },
+  "FCT0133": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007841401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CB003535926",
+      "1CB003535928",
+      "1CB003535116",
+      "1CB003535935",
+      "1CB003535953",
+      "1CB003536317",
+      "1CB003536379",
+      "1CB003536380",
+      "1CB003536318",
+      "1CB003535911"
+     ]
+    }
+   ]
+  },
+  "FCT0134": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007841601A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CB003515322",
+      "1CB003516304",
+      "1CB003516311",
+      "1CB003516371",
+      "1CB003519097",
+      "1CB003516310",
+      "1CB003516307",
+      "1CB003516314"
+     ]
+    }
+   ]
+  },
+  "FCT0135": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010008983031A",
+      "010008982801A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003545116",
+      "1CB003546328"
+     ]
+    }
+   ]
+  },
+  "FCT0136": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010007842050A",
+      "010007842075A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB00352636A",
+      "1CB003526369",
+      "1CB003526368",
+      "1CB003526351",
+      "1CB003526352",
+      "1CB003526382"
+     ]
+    }
+   ]
+  },
+  "FCT0138": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010007852005A",
+      "010007852001B"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C4GP0AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB003606542",
+      "1CB003646542",
+      "1CB003606543",
+      "1CB003646543",
+      "1CB003606550",
+      "1CB003606455",
+      "1CB003296826",
+      "1CB003606693",
+      "1CB003606503"
+     ]
+    }
+   ]
+  },
+  "FCT0139": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB003625590"
+     ]
+    }
+   ]
+  },
+  "FCT0140": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007842701A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CB003615323",
+      "1CB003615322",
+      "1CB003616512",
+      "1CB003616511",
+      "1CB003656511",
+      "1CB003616521",
+      "1CB003656521",
+      "1CB003616510",
+      "1CB003656510",
+      "1CB003616507",
+      "1CB003656507",
+      "1CB003616515"
+     ]
+    }
+   ]
+  },
+  "FCT0141": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008983046A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5GG019VP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB003636528",
+      "1CB003676528",
+      "1CB003635590",
+      "1CB003675590"
+     ]
+    }
+   ]
+  },
+  "FCT0143": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007852005A",
+      "010007852001B",
+      "010007008401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C4DH0TP0",
+      "C5CM0103P0",
+      "C5CM0106P0",
+      "C4GP0AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CB003717854",
+      "1CB003717855",
+      "1CB003296826",
+      "1CB003717425",
+      "1CB003717426",
+      "1CB003717801",
+      "1CB003717617",
+      "1CB003717618"
+     ]
+    }
+   ]
+  },
+  "FCT0144": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007008502A"
+     ]
+    }
+   ]
+  },
+  "FCT0235": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142",
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010008982030A",
+      "010008982001A",
+      "010008554101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C4DG012EP0",
+      "C5GG2BP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB004444364",
+      "1CB004439070",
+      "1CB004444366",
+      "1CB004437838",
+      "1CB004444344"
+     ]
+    }
+   ]
+  },
+  "FCT0149": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5GG2BP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004737802",
+      "1CB004735728"
+     ]
+    }
+   ]
+  },
+  "FCT0146": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007008015A",
+      "010007008010A",
+      "010007008201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C4EB016JP0",
+      "C4EB015ZP0",
+      "C4EB1QP0",
+      "C4FD0TP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB003769003",
+      "1CB003762015",
+      "1CB003769001"
+     ]
+    }
+   ]
+  },
+  "FCT0147": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007008601A"
+     ]
+    }
+   ]
+  },
+  "FCT0150": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": []
+  },
+  "FCT0202": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010005512710A",
+      "010005545001A",
+      "010008554101A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB004444364",
+      "1CB004065123",
+      "1CB004065174",
+      "1CB004444366",
+      "1CB004065150",
+      "1CB004444344"
+     ]
+    }
+   ]
+  },
+  "FCT0203": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "010005512710A",
+      "010005541501A",
+      "010005544201A",
+      "010005544001A",
+      "010005542001A",
+      "010005541001A",
+      "010005541050A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "C5EG015PP0",
+      "C5EG24P0",
+      "C5EG26P0",
+      "C5EH011KP0",
+      "C4BH38P0",
+      "C5EH09P0",
+      "C5EM0102P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "1CB004015205",
+      "1CB004035223",
+      "1CB004075209",
+      "1CB004015206",
+      "1CB004075210",
+      "1CB004025135",
+      "1CB004015241",
+      "1CB004025241",
+      "1CB004015242",
+      "1CB004025242",
+      "1CB004055272",
+      "1CB004045250",
+      "1CB00403528A",
+      "1CB004045251",
+      "1CB00403528B",
+      "1CB004055289",
+      "1CB004045283",
+      "1CB00401520C",
+      "1CB00401520R",
+      "1CB004035299",
+      "1CB004015293",
+      "1CB004015230",
+      "1CB004015202"
+     ]
+    }
+   ]
+  },
+  "FCT0314": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010005571001A",
+      "010005544080A",
+      "010005544001A",
+      "010005542001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C5EG22P0",
+      "C5EG24P0",
+      "C4BH38P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CB004035223",
+      "1CB005315310",
+      "1CB004045250",
+      "1CB004395259",
+      "1CB00403528A",
+      "1CB004045251",
+      "1CB00403528B",
+      "1CB004045283",
+      "1CB004035299",
+      "1CB004395171"
+     ]
+    }
+   ]
+  },
+  "FCT0051": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201",
+    "FCT0205",
+    "FCT0330",
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005522101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3EG3JP0",
+      "B3EG016YP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB005355130",
+      "1CB005355101"
+     ]
+    }
+   ]
+  },
+  "FCT0321": {
+   "parentId": "FCT0205",
+   "parentIds": [
+    "FCT0205"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010005564130A",
+      "010005564101A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB003855349",
+      "1CB003855346",
+      "1CB003855348",
+      "1CB003855347"
+     ]
+    }
+   ]
+  },
+  "FCT0322": {
+   "parentId": "FCT0205",
+   "parentIds": [
+    "FCT0205"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010005522101A",
+      "010005561201A",
+      "010005561105A",
+      "010005561101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "B3EG3JP0",
+      "C5DG0QP0",
+      "B3EG016YP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CB003865357",
+      "1CB005355130",
+      "1CB005355101",
+      "1CB003865330",
+      "1CB003845339",
+      "1CB003865356",
+      "1CB003845341",
+      "1CB003845343"
+     ]
+    }
+   ]
+  },
+  "FCT0212": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010005521901A",
+      "010007856002A",
+      "010007856001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C5FG1QP0",
+      "C5FG011WP0",
+      "C5FS06P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB004135120",
+      "1CB004114313",
+      "1CB004134914",
+      "1CB004135128",
+      "1CB004114301",
+      "1CB004114389",
+      "1CB004114333",
+      "1CB004114332",
+      "1CB004114335"
+     ]
+    }
+   ]
+  },
+  "FCT0213": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211",
+    "FCT0516"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010005520901A",
+      "010005520903A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5FG1NP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB004164320",
+      "1CB004174325",
+      "1CB004174319"
+     ]
+    }
+   ]
+  },
+  "FCT0214": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010007857001A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB004284303"
+     ]
+    }
+   ]
+  },
+  "FCT0215": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010007857302A",
+      "010007857301A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB004295037"
+     ]
+    }
+   ]
+  },
+  "FCT0216": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "010007858001A",
+      "010007853740A",
+      "010007853701A",
+      "010007857602A",
+      "010007857601A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5FG1QP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CB004504330",
+      "1CB004144331",
+      "1CB004504331",
+      "1CB004414312",
+      "1CB004144311",
+      "1CB004155112",
+      "1CB003885116",
+      "1CB004155128"
+     ]
+    }
+   ]
+  },
+  "FCT0218": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5GG24P0",
+      "C5GM0103P0",
+      "C5GM0104P0",
+      "C5GS0KP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004218905",
+      "1CB004218907"
+     ]
+    }
+   ]
+  },
+  "FCT0219": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008922501A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CB004228917",
+      "1CB004228915",
+      "1CB004228961",
+      "1CB004228853"
+     ]
+    }
+   ]
+  },
+  "FCT0220": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "010008922615A",
+      "010008922610A",
+      "010008922616A",
+      "010008922620A",
+      "010008922606A",
+      "010008922601A",
+      "010008922605A",
+      "010008922610F",
+      "010008922616F",
+      "010008922620F",
+      "010008922606F",
+      "010008922601F",
+      "010008922605F"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CB004238985",
+      "1CB004238965",
+      "1CB004238966",
+      "1CB004238989",
+      "1CB004238963",
+      "1CB004238964"
+     ]
+    }
+   ]
+  },
+  "FCT0221": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    }
+   ]
+  },
+  "FCT0237": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008616201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "C5JG67P0",
+      "C5JH0104P0",
+      "C5JK0TP0",
+      "C5JK0106P0",
+      "C5JK010CP0",
+      "C5JK0107P0",
+      "C5JM08P0",
+      "C5JM0103P0",
+      "C5JM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB004489022"
+     ]
+    }
+   ]
+  },
+  "FCT0223": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    }
+   ]
+  },
+  "FCT0224": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0225": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0226": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0238": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0228": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0",
+      "C5GS0LP0",
+      "C5GS0MP0"
+     ]
+    }
+   ]
+  },
+  "FCT0229": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "C5GG26P0",
+      "C5GG25P0",
+      "C5GM0103P0",
+      "C5GM0104P0",
+      "C5GS0LP0",
+      "C5GS0MP0"
+     ]
+    }
+   ]
+  },
+  "FCT0230": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010008932201A",
+      "010008934301A",
+      "010008932220A",
+      "010008934320A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CB004318868",
+      "1CB004318869",
+      "1CB004318944",
+      "1CB004318888",
+      "1CB004318996",
+      "1CB004318988",
+      "1CB004318894"
+     ]
+    }
+   ]
+  },
+  "FCT0231": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "010008932310A",
+      "010008932316A",
+      "010008932320A",
+      "010008932306A",
+      "010008932301A",
+      "010008932305A",
+      "010008932315A",
+      "010008934401A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "1CB004328985",
+      "1CB004328911",
+      "1CB004328910",
+      "1CB004328961",
+      "1CB004328990",
+      "1CB004328955",
+      "1CB004328873",
+      "1CB004328937",
+      "1CB004328872",
+      "1CB004328887",
+      "1CB004328958",
+      "1CB004328858",
+      "1CB004328859"
+     ]
+    }
+   ]
+  },
+  "FCT0232": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": []
+  },
+  "FCT0239": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008616401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5JG68P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB004499048"
+     ]
+    }
+   ]
+  },
+  "FCT0240": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227",
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008982301A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004479062",
+      "1CB004479051"
+     ]
+    }
+   ]
+  },
+  "FCT0234": {
+   "parentId": "FCT0233",
+   "parentIds": [
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "010008980201A",
+      "010008979633A",
+      "010008979630A",
+      "010008979603B",
+      "010008979601A",
+      "010008979402A",
+      "010008979401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GG23P0",
+      "C5GG019VP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CB003269152",
+      "1CB004469077",
+      "1CB004469071",
+      "1CB003269091",
+      "1CB003269191",
+      "1CB004425573",
+      "1CB004597838",
+      "1CB004425596",
+      "1CB004458942",
+      "1CB004458941",
+      "1CB004425584"
+     ]
+    }
+   ]
+  },
+  "FCT0236": {
+   "parentId": "FCT0233",
+   "parentIds": [
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004555522",
+      "1CB004555571"
+     ]
+    }
+   ]
+  },
+  "FCT0701": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0703": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700",
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0704": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0705": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0706": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0942": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010005614141A",
+      "010005614140A",
+      "010005614101A",
+      "010005614170A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB005325301"
+     ]
+    }
+   ]
+  },
+  "FCT0946": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0302": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010002533010A",
+      "010002533220A",
+      "010002533210A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D1BG0JP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB004911151"
+     ]
+    }
+   ]
+  },
+  "FCT0303": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "010002532015A",
+      "010002532010A",
+      "010002532515B",
+      "010002532510A",
+      "010002532520A",
+      "010002532530A",
+      "010002532501A",
+      "010002532515A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "D1AG1FP0",
+      "B1BG7AP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB004961108",
+      "1CB004961120",
+      "1CB004961159"
+     ]
+    }
+   ]
+  },
+  "FCT0304": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB004820635",
+      "1CB004820631",
+      "1CB004820645",
+      "1CB004820636",
+      "1CB004820638"
+     ]
+    }
+   ]
+  },
+  "FCT0305": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005531001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "E3B70103P0",
+      "E2AK010PP0",
+      "E2AK010FP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB004861101",
+      "1CB004865402",
+      "1CB004861103"
+     ]
+    }
+   ]
+  },
+  "FCT0766": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": []
+  },
+  "FCT0307": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": []
+  },
+  "FCT0308": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "010005501240A",
+      "010005501220A",
+      "010005501230A",
+      "010005501116A",
+      "010005501117A",
+      "010005501119A",
+      "010005501105A",
+      "010005501115A",
+      "010005501118A",
+      "010005501101A",
+      "010005501110A",
+      "010005501001A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB005133912",
+      "1CB005143908"
+     ]
+    }
+   ]
+  },
+  "FCT0309": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 14,
+     "truncated": false,
+     "refs": [
+      "010005502101A",
+      "010005501816A",
+      "010005501818A",
+      "010005501805A",
+      "010005501815A",
+      "010005501817A",
+      "010005501801A",
+      "010005501810A",
+      "010005502301A",
+      "010005502330A",
+      "010005502425A",
+      "010005502426A",
+      "010005502420A",
+      "010005502421A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB005063913",
+      "1CB005205409",
+      "1CB005255424"
+     ]
+    }
+   ]
+  },
+  "FCT0310": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005502501A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB005285495"
+     ]
+    }
+   ]
+  },
+  "FCT0767": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": []
+  },
+  "FCT0954": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0955": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0503": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005614170A"
+     ]
+    }
+   ]
+  },
+  "FCT0956": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0957": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0958": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0959": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0960": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0961": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0319": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0324": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005524050A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D4CM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB00570514A",
+      "1CB005705142"
+     ]
+    }
+   ]
+  },
+  "FCT0311": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CB005455537"
+     ]
+    }
+   ]
+  },
+  "FCT0325": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005571501A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB005365321",
+      "1CB005365394"
+     ]
+    }
+   ]
+  },
+  "FCT0857": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003646542",
+      "1CB003646543"
+     ]
+    }
+   ]
+  },
+  "FCT0329": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010007843501A",
+      "010007841401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CG1LP0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CB003535926",
+      "1CB003535928",
+      "1CB003535116",
+      "1CB003305827",
+      "1CB003535935",
+      "1CB003535953",
+      "1CB003536317",
+      "1CB003536379",
+      "1CB003536380",
+      "1CB003536318",
+      "1CB003625590",
+      "1CB003535911"
+     ]
+    }
+   ]
+  },
+  "FCT0858": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5GG019VP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003256803",
+      "1CB003256802"
+     ]
+    }
+   ]
+  },
+  "FCT0952": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "010008616401A",
+      "010008616201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "C5JG68P0",
+      "C5JG67P0",
+      "C5JH0104P0",
+      "C5JK0TP0",
+      "C5JK0106P0",
+      "C5JK010CP0",
+      "C5JK0107P0",
+      "C5JM08P0",
+      "C5JM0103P0",
+      "C5JM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004499048",
+      "1CB004489022"
+     ]
+    }
+   ]
+  },
+  "FCT0953": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010008921401A",
+      "010008921001A",
+      "010008921210A",
+      "010008921201A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 15,
+     "truncated": false,
+     "refs": [
+      "C5JG6BP0",
+      "C5JG6EP0",
+      "C5JG6QP0",
+      "C5JG6DP0",
+      "C5JG6CP0",
+      "C5JG6GP0",
+      "C5JG6JP0",
+      "C5JH0104P0",
+      "C5JK0TP0",
+      "C5JK0106P0",
+      "C5JK010CP0",
+      "C5JK0107P0",
+      "C5JM08P0",
+      "C5JM0103P0",
+      "C5JM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CB003934454",
+      "1CB003924461",
+      "1CB003924462",
+      "1CB003924456",
+      "1CB003915143",
+      "1CB003914401",
+      "1CB003914451",
+      "1CB003924457",
+      "1CB003924458",
+      "1CB003931269"
+     ]
+    }
+   ]
+  },
+  "FCT0327": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010008921401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C5JG6BP0",
+      "C5JG6EP0",
+      "C5JG6JP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB003934454",
+      "1CB003931269"
+     ]
+    }
+   ]
+  },
+  "FCT0328": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5GG2BP0"
+     ]
+    }
+   ]
+  },
+  "FCT0331": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010007842050A",
+      "010007842075A",
+      "010008554101A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB00352636A",
+      "1CB004444364",
+      "1CB003526369",
+      "1CB003526368",
+      "1CB003526351",
+      "1CB004444366",
+      "1CB003526352",
+      "1CB004444344",
+      "1CB003526382"
+     ]
+    }
+   ]
+  },
+  "FCT0333": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "010008932201A",
+      "010008934301A",
+      "010008922501A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5GG26P0",
+      "C5GG25P0",
+      "C5GG24P0",
+      "C5GS0KP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "1CB004228917",
+      "1CB004318868",
+      "1CB004318869",
+      "1CB004228915",
+      "1CB004318944",
+      "1CB004228961",
+      "1CB004228853",
+      "1CB004318888",
+      "1CB004318996",
+      "1CB004318988",
+      "1CB004218905",
+      "1CB004218907",
+      "1CB004318894"
+     ]
+    }
+   ]
+  },
+  "FCT0877": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GG24P0",
+      "C5GS0KP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB004218905",
+      "1CB004218907"
+     ]
+    }
+   ]
+  },
+  "FCT0951": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C6CM0UP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CB001085767",
+      "1CB001085766",
+      "1CB005045708"
+     ]
+    }
+   ]
+  },
+  "FCT0336": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0338": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0351": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010004455510A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3FF0EP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CB002392586",
+      "1CB002392587",
+      "1CB002392578",
+      "1CB002395146",
+      "1CB002392576"
+     ]
+    }
+   ]
+  },
+  "FCT0341": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0343": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0344": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "010005522101A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B3EG3JP0",
+      "B3EG016YP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CB005355130",
+      "1CB005355101"
+     ]
+    }
+   ]
+  },
+  "FCT0345": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0347": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "010006642605A",
+      "010006642601A",
+      "010006644501A",
+      "010006642801A",
+      "010006640601A",
+      "010006640801A",
+      "010006642201A",
+      "010006641205A",
+      "010006641201A",
+      "010006640820A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 25,
+     "truncated": false,
+     "refs": [
+      "C5HB013GP0",
+      "C5HB1BP0",
+      "C5HB1KP0",
+      "C5HB0123P0",
+      "C5HB1JP0",
+      "C5HB012VP0",
+      "C5HB0124P0",
+      "C5HD10P0",
+      "C5HD11P0",
+      "C5HD010SP0",
+      "C5HD010QP0",
+      "C5HD010NP0",
+      "C5HG4RP0",
+      "C5HG4QP0",
+      "C5HG4NP0",
+      "C5HG4PP0",
+      "C5HG51P0",
+      "B1BG7AP0",
+      "C5HG4ZP0",
+      "C5HG4MP0",
+      "C5HG0181P0",
+      "C5HG50P0",
+      "C5HK0106P0",
+      "C5HK0EP0",
+      "C5HK07P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 21,
+     "truncated": false,
+     "refs": [
+      "1CB004645052",
+      "1CB004625061",
+      "1CB004635001",
+      "1CB004635003",
+      "1CB004684902",
+      "1CB004674919",
+      "1CB004664920",
+      "1CB004624945",
+      "1CB004674909",
+      "1CB004684909",
+      "1CB004614949",
+      "1CB004615050",
+      "1CB004615059",
+      "1CB004635006",
+      "1CB004674918",
+      "1CB004625041",
+      "1CB004625097",
+      "1CB004631254",
+      "1CB00476493D",
+      "1CB0047649CD",
+      "1CB004645074"
+     ]
+    }
+   ]
+  },
+  "FCT0348": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": []
+  },
+  "FCT0349": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": []
+  },
+  "FCT0350": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "010005653201A",
+      "010005653001A",
+      "010005522101A",
+      "010005653401A"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "D5AG012CP0",
+      "B3EG3JP0",
+      "D5AG014SP0",
+      "B3EG016YP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CB005425382",
+      "1CB005415384",
+      "1CB005424507",
+      "1CB005425455",
+      "1CB005355130",
+      "1CB005355101",
+      "1CB00543537K",
+      "1CB005445566",
+      "1CB00541551D"
+     ]
+    }
+   ]
+  }
+ }
+}

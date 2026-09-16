@@ -1,0 +1,30 @@
+{
+ "ref": "B1HK29P0",
+ "refDisplay": "B1HK29P0",
+ "title": "Nettoyage : raccords sur rampe d’injection commune haute pression carburant",
+ "nature": "Précautions à prendre",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA3&B0F=B0FPB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DA5&B0F=B0FPB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB0",
+   "variantKey": "B0D=B0DAE&B0F=B0FPB",
+   "fctId": "FCT0010"
+  }
+ ]
+}
